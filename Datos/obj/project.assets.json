@@ -1650,11 +1650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Sistema de Inventario\\SIFAPI\\Datos\\Datos.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Sistema_de_Inventario\\Datos\\Datos.csproj",
       "projectName": "Datos",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Sistema de Inventario\\SIFAPI\\Datos\\Datos.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Sistema_de_Inventario\\Datos\\Datos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Sistema de Inventario\\SIFAPI\\Datos\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Sistema_de_Inventario\\Datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

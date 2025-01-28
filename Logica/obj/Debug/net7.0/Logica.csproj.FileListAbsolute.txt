@@ -27,3 +27,20 @@ C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Debug\net7.0\Lo
 C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Debug\net7.0\refint\Logica.dll
 C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Debug\net7.0\Logica.pdb
 C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Debug\net7.0\ref\Logica.dll
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Logica.deps.json
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Logica.dll
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Logica.pdb
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Datos.dll
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Entidades.dll
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Datos.pdb
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.dll
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\refint\Logica.dll
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\Logica.pdb
+C:\Users\Usuario\Documents\GitHub\Sistema_de_Inventario\Logica\obj\Debug\net7.0\ref\Logica.dll
