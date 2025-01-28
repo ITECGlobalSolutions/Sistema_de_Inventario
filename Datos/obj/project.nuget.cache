@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P99XsxEMa/5rF5yJw2XhDDwrQP8fxlMeTIoiDcCO1Wvy2m2IO6ZoDl2u20iv6DgxjhocTgnmcdZz18Xm+7fKKw==",
+  "dgSpecHash": "wK1SSCB4VZSOgxIxE9DExVPYC+xsdve8DrA2s0HAzk6Dg8a2gmUvVWOgH1w3TqlYdm2lfCCs52pkvgOFEJoy1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Sistema de Inventario\\SIFAPI\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Sistema_de_Inventario\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

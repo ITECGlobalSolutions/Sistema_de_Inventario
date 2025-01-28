@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KLl8OVxCYuy5yn7y1S3wMPvOugceN2lLWOLo9VEfwxa9ZGxyGcSSjKB5LnAX33x63LH22M65NUN5iGXg8YKLRA==",
+  "dgSpecHash": "+fBmjsacJhdSYW4vKVhfJRIXE54DOLpQ8Hy3Q66uZDU3QiFIiPvlkTEZM300dPqpMejEXknGj31yB9rHkDAWpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Sistema de Inventario\\SIFAPI\\Logica\\Logica.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Sistema_de_Inventario\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPE/G0/+ad/QHQTt5mA3ULmyfC7qgZ/W1wmPfQ9sbzpaFxGjUEe1D20oh+lTH5I4iGsJxrjUsPxwVjOPoxUN3w==",
+  "dgSpecHash": "2LeKlYxnN5NRYbj9/3G0yIRVlP+bGc8yRDG9IVKqmCm5O+dXDq6NPdUfBdyS5j9+83ykycEFISfdKt89wzMtZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Sistema de Inventario\\SIFAPI\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Sistema_de_Inventario\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
