@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Logica.deps.json
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Logica.dll
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Logica.pdb
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Datos.dll
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Entidades.dll
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Datos.pdb
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\bin\Release\net7.0\Entidades.pdb
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.dll
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\refint\Logica.dll
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\Logica.pdb
+C:\Users\Usuario\Desktop\Sistema de Inventario\SIFAPI\Logica\obj\Release\net7.0\ref\Logica.dll
